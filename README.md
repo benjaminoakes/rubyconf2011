@@ -1,4 +1,4 @@
 RubyConf 2011 Notes
 ===================
 
-You probably are meaning to look at [https://github.com/benjaminoakes/rubyconf2011/wiki](https://github.com/benjaminoakes/rubyconf2011/wiki)
+I've moved this content to the [newhavenrb conferences wiki](https://github.com/newhavenrb/conferences/wiki/RubyConf-2011).
